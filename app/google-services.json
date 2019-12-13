@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "479544366104",
+    "firebase_url": "https://uas-rahma.firebaseio.com",
+    "project_id": "uas-rahma",
+    "storage_bucket": "uas-rahma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479544366104:android:54ca542eb706cac00ddf6d",
+        "android_client_info": {
+          "package_name": "com.example.uasrahma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479544366104-obqa7niesdp8deui9p90vjl5lqg1uclo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uasrahma",
+            "certificate_hash": "6e77d05b5c835e87548ec37aaaac84ed349ec6bc"
+          }
+        },
+        {
+          "client_id": "479544366104-u47o63nquc0nt6bvsrns7pquhi889jj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0a6wERh3pUEIaoEK_Vv9HurNuFQamhjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479544366104-u47o63nquc0nt6bvsrns7pquhi889jj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
